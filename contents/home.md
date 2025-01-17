@@ -1,16 +1,21 @@
 
+#### Introducation
+M.S. Computer Science & Artificial Intelligence @USC | Large Language Models Development Intern | Research Assistant @USC's Advanced Composites Simulation Lab. \
+I am passionate about the interdisciplinary applications of artificial intelligence. Currently working on COSB image research based on Computer vision.\
+OPEN to job opportunities in machine learning/deep learning.
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
 
 #### Email
-sli[at]cumt.edu.cn
+tianyaos@usc.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+M.S., Computer Science and Artificial Intelligence, University of Southern California, 2024—2026 (expected).\
+B.E., Intelligent science and technology, Shanghai University, 2020-2024.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+Deep Learning, Large language Models, Computer Vision, Time Series Analysis, Data Mining.
+
+#### Social Media
+Github: https://github.com/Alan-TianyaoSu .\
+Linkedin: https://www.linkedin.com/in/tianyao-su-293254325
 
