@@ -1,13 +1,15 @@
-- National Scholarship of Graduate Student, 2024.
+- Outstanding Graduate of Shanghai University, 2024.
 
-- First-prize Scholarship of CUMT, 2024.
+- American Mathematical Contest in Modeling (MCM), Meritorious Award, May 2023.
 
-- First-prize Scholarship of CUMT, 2023.
+- American Mathematical Contest in Modeling (MCM), Meritorious Award, February 2023.
 
-- Freshman Scholarship of CUMT, 2022.
+- American Mathematical Contest in Modeling (MCM), Meritorious Award, February 2022.
 
-- Excellent Graduation Project of Jiangsu Province, 2022.
+- C++ Group of the Blue Bridge Cup Programming Contest, First Prize, 2022.
 
-- First-prize Enterprise Scholarship of CUMT, 2020.
+- First-Class Academic Excellence Scholarship of Shanghai University, 2023.
 
-- First-prize Scholarship of CUMT, 2019.
+- First-Class Academic Excellence Scholarship of Shanghai University, 2022.
+
+- First-Class Academic Excellence Scholarship of Shanghai University, 2021.

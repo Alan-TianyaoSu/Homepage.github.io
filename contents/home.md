@@ -1,8 +1,8 @@
 
 #### Introducation
 M.S. Computer Science & Artificial Intelligence @USC | Large Language Models Development Intern | Research Assistant @USC's Advanced Composites Simulation Lab. \
-I am passionate about the interdisciplinary applications of artificial intelligence. Currently working on COSB image research based on Computer vision.\
-OPEN to job opportunities in machine learning/deep learning.
+I am passionate about research on deep learning and its applications to improving people's life. Currently working on COSB image research based on Computer vision.\
+<strong>OPEN to job opportunities in machine learning/deep learning.</strong>
 
 
 #### Email
